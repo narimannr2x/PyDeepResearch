@@ -1,0 +1,6 @@
+.env
+__pycache__
+*.pyc
+test
+venv
+test_text_splitter.py
