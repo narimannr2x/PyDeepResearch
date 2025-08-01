@@ -21,7 +21,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/deepresearch.git
+   git clone https://github.com/narimannr2x/PyDeepResearch.git
    cd deepresearch
    ```
 
