@@ -8,7 +8,8 @@ import tiktoken
 
 # Load environment variables
 load_dotenv()
-
+# Initialize OpenAI client
+client = OpenAI()
 
 
 encoder  = tiktoken.get_encoding("o200k_base")
